@@ -1,0 +1,227 @@
+[
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 1,
+        "priceDenom": 1,
+        "tokenLimit": 1
+      },
+      "sell": {
+        "priceNumer": 1,
+        "priceDenom": 1,
+        "tokenLimit": 1
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 9007199254740991,
+      "sellOrderTokenBalance": 9007199254740991
+    },
+    "solution": {
+      "quotTokenTrans": 1,
+      "variTokenTrans": 1,
+      "quotTokenArbit": 0
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 2,
+        "priceDenom": 1,
+        "tokenLimit": 2
+      },
+      "sell": {
+        "priceNumer": 1,
+        "priceDenom": 1,
+        "tokenLimit": 1
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 9007199254740991,
+      "sellOrderTokenBalance": 9007199254740991
+    },
+    "solution": {
+      "quotTokenTrans": 1,
+      "variTokenTrans": 1,
+      "quotTokenArbit": 1
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 37,
+        "priceDenom": 100,
+        "tokenLimit": 370
+      },
+      "sell": {
+        "priceNumer": 37,
+        "priceDenom": 100,
+        "tokenLimit": 1000
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 9007199254740991,
+      "sellOrderTokenBalance": 9007199254740991
+    },
+    "solution": {
+      "quotTokenTrans": 370,
+      "variTokenTrans": 1000,
+      "quotTokenArbit": 0
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 38,
+        "priceDenom": 100,
+        "tokenLimit": 380
+      },
+      "sell": {
+        "priceNumer": 37,
+        "priceDenom": 100,
+        "tokenLimit": 1000
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 9007199254740991,
+      "sellOrderTokenBalance": 9007199254740991
+    },
+    "solution": {
+      "quotTokenTrans": 370,
+      "variTokenTrans": 1000,
+      "quotTokenArbit": 10
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 2,
+        "priceDenom": 1,
+        "tokenLimit": 100
+      },
+      "sell": {
+        "priceNumer": 15,
+        "priceDenom": 10,
+        "tokenLimit": 100
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 9007199254740991,
+      "sellOrderTokenBalance": 9007199254740991
+    },
+    "solution": {
+      "quotTokenTrans": 75,
+      "variTokenTrans": 50,
+      "quotTokenArbit": 25
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 2,
+        "priceDenom": 1,
+        "tokenLimit": 100
+      },
+      "sell": {
+        "priceNumer": 15,
+        "priceDenom": 10,
+        "tokenLimit": 10
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 9007199254740991,
+      "sellOrderTokenBalance": 9007199254740991
+    },
+    "solution": {
+      "quotTokenTrans": 15,
+      "variTokenTrans": 10,
+      "quotTokenArbit": 5
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 2,
+        "priceDenom": 1,
+        "tokenLimit": 100
+      },
+      "sell": {
+        "priceNumer": 15,
+        "priceDenom": 10,
+        "tokenLimit": 10
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 5,
+      "sellOrderTokenBalance": 7
+    },
+    "solution": {
+      "quotTokenTrans": 3,
+      "variTokenTrans": 2,
+      "quotTokenArbit": 1
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 1,
+        "priceDenom": 2,
+        "tokenLimit": 100
+      },
+      "sell": {
+        "priceNumer": 5,
+        "priceDenom": 11,
+        "tokenLimit": 10
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 12,
+      "sellOrderTokenBalance": 11
+    },
+    "solution": {
+      "quotTokenTrans": 4,
+      "variTokenTrans": 10,
+      "quotTokenArbit": 1
+    }
+  },
+  {
+    "orders": {
+      "buy": {
+        "priceNumer": 1,
+        "priceDenom": 2,
+        "tokenLimit": 100
+      },
+      "sell": {
+        "priceNumer": 5,
+        "priceDenom": 11,
+        "tokenLimit": 10
+      }
+    },
+    "chainState": {
+      "buyyOrderTokenFilled": 0,
+      "sellOrderTokenFilled": 0,
+      "buyyOrderTokenBalance": 9007199254740991,
+      "sellOrderTokenBalance": 9007199254740991
+    },
+    "solution": {
+      "quotTokenTrans": 4,
+      "variTokenTrans": 10,
+      "quotTokenArbit": 1
+    }
+  }
+]
