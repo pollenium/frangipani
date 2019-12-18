@@ -1,7 +1,7 @@
 [
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 1,
         "priceDenom": 1,
         "tokenLimit": 1
@@ -26,7 +26,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 2,
         "priceDenom": 1,
         "tokenLimit": 2
@@ -51,7 +51,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 37,
         "priceDenom": 100,
         "tokenLimit": 370
@@ -76,7 +76,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 38,
         "priceDenom": 100,
         "tokenLimit": 380
@@ -101,7 +101,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 2,
         "priceDenom": 1,
         "tokenLimit": 100
@@ -126,7 +126,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 2,
         "priceDenom": 1,
         "tokenLimit": 100
@@ -151,7 +151,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 2,
         "priceDenom": 1,
         "tokenLimit": 100
@@ -176,7 +176,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 1,
         "priceDenom": 2,
         "tokenLimit": 100
@@ -201,7 +201,7 @@
   },
   {
     "orders": {
-      "buy": {
+      "buyy": {
         "priceNumer": 1,
         "priceDenom": 2,
         "tokenLimit": 100
